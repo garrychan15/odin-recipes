@@ -1,1 +1,1 @@
-##This is the completed project from The Odin Project's HTML Foundational Course Project called Project: Recipes solutions.
+#This is the completed project from The Odin Project's HTML Foundational Course Project called Project: Recipes solutions.
